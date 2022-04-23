@@ -1,2 +1,6 @@
-#include<stdio.h>
-{ printf("hello");}
+<<<<<<< HEAD
+#include<stdio.>
+{ //comments
+	printf("hello");
+//comments
+

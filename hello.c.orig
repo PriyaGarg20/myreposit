@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+#include<stdio.h>
+{ printf("hello");}
+=======
+#include<iostream>
+{ //comments
+	printf("hello");
+//comments
+>>>>>>> feature1
